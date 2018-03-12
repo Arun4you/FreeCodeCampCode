@@ -1,0 +1,16 @@
+{
+    "name": "loginapp",
+    "version": "0.0.0",
+    "description": "",
+    "main": "",
+    "author": "Arun",
+    "license": "MIT",
+    "homepage": "",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
