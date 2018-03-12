@@ -1,0 +1,25 @@
+{
+  "name": "votingapp",
+  "version": "1.0.0",
+  "description": "Pool app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arun Subramanian",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "^2.8.3",
+    "dotenv": "*",
+    "ejs": "*",
+    "ejs-mate": "*",
+    "express": "*",
+    "jsonwebtoken": "^7.4.1",
+    "mongoose": "*",
+    "morgan": "*",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.2.1"
+  }
+}
